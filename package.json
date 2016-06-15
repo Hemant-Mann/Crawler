@@ -1,0 +1,30 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "A simple crawler made in Node.js",
+  "main": "./lib/index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hemant-Mann/Crawler.git"
+  },
+  "keywords": [
+    "node",
+    "crawler",
+    "crawler",
+    "js",
+    "crawler"
+  ],
+  "author": "Hemant Mann <hemant.mann121@gmail.com>",
+  "license": "GNU GPLv3",
+  "bugs": {
+    "url": "https://github.com/Hemant-Mann/Crawler/issues"
+  },
+  "homepage": "https://github.com/Hemant-Mann/Crawler#readme",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "request": "^2.72.0"
+  }
+}
